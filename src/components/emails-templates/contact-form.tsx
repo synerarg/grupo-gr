@@ -119,8 +119,8 @@ export const ContactFormEmail = ({
               Argentina
             </Text>
             <Text style={footerText}>
-              <Link href="tel:1131064837" style={footerLink}>
-                +54 11 3106-4837
+              <Link href="tel:+5491160243174" style={footerLink}>
+                +54 9 11 6024-3174
               </Link>{" "}
               |
               <Link href="mailto:info@grupogalleries.com" style={footerLink}>

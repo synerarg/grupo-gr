@@ -92,7 +92,7 @@ export async function POST(request: Request) {
 
         💬 CONTACTO
         17. ¿Cómo puedo contactarme?
-        Podés escribirnos por este chat, enviando un mail a info@grupogr.com o llamando al 11 6440-1067.
+        Podés escribirnos por este chat, enviando un mail a info@grupogr.com o llamando al +54 9 11 6024-3174.
         
         Si algun usuario te pide algo que no este dentro de este contexto, simplemente responde que no puedes ayudar con eso y brindale informacion de contacto para que pueda resolver su problema.
         `,

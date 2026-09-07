@@ -110,22 +110,22 @@ export function Navbar() {
               <h3 className="font-medium text-gray-800 mb-4">Contacto</h3>
               <div className="flex flex-col space-y-4">
                 <Link
-                  href="tel:1131064837"
+                  href="tel:+5491160243174"
                   className="text-blue-500 hover:underline flex items-center gap-2"
                 >
-                  <Phone className="h-4 w-4" /> 11 3106-4837
+                  <Phone className="h-4 w-4" /> +54 9 11 6024-3174
                 </Link>
                 <Link
-                  href="tel:0114912-1045"
+                  href="tel:+5491160243174"
                   className="text-blue-500 hover:underline flex items-center gap-2"
                 >
-                  <Phone className="h-4 w-4" /> 011 4912-1045
+                  <Phone className="h-4 w-4" /> +54 9 11 6024-3174
                 </Link>
                 <Link
-                  href="https://wa.me/541128079238"
+                  href="https://wa.me/5491160243174"
                   className="text-blue-500 hover:underline flex items-center gap-2"
                 >
-                  <MessageSquare className="h-4 w-4" /> 11 2807-9238
+                  <MessageSquare className="h-4 w-4" /> +54 9 11 6024-3174
                 </Link>
                 <Link
                   href="mailto:info@grupogr.com.ar"

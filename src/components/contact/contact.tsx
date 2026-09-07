@@ -85,11 +85,11 @@ export function Contact() {
                   </h4>
                   <div className="flex flex-col sm:flex-row gap-2">
                     <Link
-                      href="https://wa.me/541128079238"
+                      href="https://wa.me/5491160243174"
                       target="_blank"
                       className="text-gray-600 text-sm sm:text-base underline"
                     >
-                      11 2807 9238
+                      +54 9 11 6024-3174
                     </Link>
                   </div>
                 </div>

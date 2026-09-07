@@ -25,18 +25,18 @@ export function ContactBar() {
   const contactItems = [
     {
       icon: WhatsAppIcon,
-      text: "11 6440-1067",
-      action: "https://wa.me/541131064837",
+      text: "+54 9 11 6024-3174",
+      action: "https://wa.me/5491160243174",
     },
     {
       icon: Phone,
-      text: "011 4912-1045",
-      action: "tel:541149121045",
+      text: "+54 9 11 6024-3174",
+      action: "tel:+5491160243174",
     },
     {
       icon: WhatsAppIcon,
-      text: "11 2807-9238",
-      action: "https://wa.me/541128079238",
+      text: "+54 9 11 6024-3174",
+      action: "https://wa.me/5491160243174",
     },
     {
       icon: Mail,

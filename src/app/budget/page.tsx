@@ -78,11 +78,11 @@ export default function BudgetPage() {
                     <h3 className="font-medium text-gray-800">Whatsapp</h3>
                     <div className="flex flex-col sm:flex-row gap-2">
                       <Link
-                        href="https://wa.me/541128079238"
+                        href="https://wa.me/5491160243174"
                         target="_blank"
                         className="text-gray-600 text-sm sm:text-base underline"
                       >
-                        11 2807 9238
+                        +54 9 11 6024-3174
                       </Link>
                     </div>
                   </div>
@@ -112,17 +112,10 @@ export default function BudgetPage() {
                       Teléfono Comercial:
                     </h3>
                     <Link
-                      href="https://wa.me/541149127398"
+                      href="https://wa.me/5491160243174"
                       className="text-gray-600 underline"
                     >
-                      TE: 54 11 4912-7398
-                    </Link>
-                    {" / "}
-                    <Link
-                      href="https://wa.me/541149121045"
-                      className="text-gray-600 underline"
-                    >
-                      TE: 54 11 4912-1045
+                      TE: +54 9 11 6024-3174
                     </Link>
                   </div>
                 </div>

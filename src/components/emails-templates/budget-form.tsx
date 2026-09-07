@@ -181,7 +181,7 @@ export const BudgetFormEmail = ({
               José C. Paz 2969, Distrito Tecnológico, Parque Patricios | CABA,
               Argentina
               <br />
-              Tel: (54 11) 4912-7398 / (5411) 4912-1045
+              Tel: +54 9 11 6024-3174
               <br />
               Email: info@grupogr.com.ar
             </Text>
