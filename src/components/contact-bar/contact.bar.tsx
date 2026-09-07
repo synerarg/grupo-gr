@@ -34,11 +34,6 @@ export function ContactBar() {
       action: "tel:541149121045",
     },
     {
-      icon: WhatsAppIcon,
-      text: "+54 9 11 6024-3174",
-      action: "https://wa.me/5491160243174",
-    },
-    {
       icon: Mail,
       text: "info@grupogr.com.ar ",
       action: "mailto:info@grupogr.com.ar ",
