@@ -110,16 +110,16 @@ export function Navbar() {
               <h3 className="font-medium text-gray-800 mb-4">Contacto</h3>
               <div className="flex flex-col space-y-4">
                 <Link
-                  href="tel:+5491160243174"
+                  href="tel:1131064837"
                   className="text-blue-500 hover:underline flex items-center gap-2"
                 >
-                  <Phone className="h-4 w-4" /> +54 9 11 6024-3174
+                  <Phone className="h-4 w-4" /> 11 3106-4837
                 </Link>
                 <Link
-                  href="tel:+5491160243174"
+                  href="tel:0114912-1045"
                   className="text-blue-500 hover:underline flex items-center gap-2"
                 >
-                  <Phone className="h-4 w-4" /> +54 9 11 6024-3174
+                  <Phone className="h-4 w-4" /> 011 4912-1045
                 </Link>
                 <Link
                   href="https://wa.me/5491160243174"
