@@ -1,5 +1,6 @@
 import type { Metadata } from "next"
 import { Roboto } from "next/font/google"
+import Script from "next/script"
 import "./globals.css"
 import { Navbar } from "@/components/navbar/navbar"
 import WhatsappButton from "@/components/whatsapp-button/whatsapp-button"
@@ -197,6 +198,11 @@ export default function RootLayout({
           <Footer />
           <WhatsappButton />
         </TagManagerProvider>
+        <Script
+          src="https://loona.com.ar/ads.js"
+          data-key="lna_pk_jikdoqkpcv6uowxs344qwm4j"
+          strategy="afterInteractive"
+        />
       </body>
     </html>
   )
